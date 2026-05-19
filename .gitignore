@@ -1,0 +1,21 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/graph.json
+
+# Claude Code
+.claude/
+
+# Source code (já em git separado)
+/source/
+/source-git/
+
+# OS
+.DS_Store
+Thumbs.db
+.env
+.env.local
+
+# Dependencies
+node_modules/
