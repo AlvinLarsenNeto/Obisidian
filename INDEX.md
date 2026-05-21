@@ -38,6 +38,11 @@ type: permanent
 - **Backend:** Supabase (Edge Functions + Postgres)
 - **Auth:** Microsoft SSO (M365)
 
+### Portal Motorista (/m)
+- **Referência rápida:** [[FLEET_MOTORISTA]] ⭐ COMECE AQUI para /m
+  - Componentes, bugs, fluxos, schema, próximas tarefas
+- **Guia usuário:** [[FLEET_GUIA_USUARIO.md]] (PDF para motoristas)
+
 ---
 
 ## 📚 Módulos & Complementos
