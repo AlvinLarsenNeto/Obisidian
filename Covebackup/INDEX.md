@@ -3,6 +3,17 @@
 > **Central de referência para o módulo Backup-Verification (Cove)**  
 > Última atualização: 2026-05-05
 
+> ⚠️ **DESATUALIZADO (verificado 2026-05-29 contra GitHub `origin/main`).** Estes 6 docs
+> refletem o estado de ~abril e o roadmap planejado. Já mudou na prática:
+> - **Sprint 1 NÃO está mais "não implementada"** — `last_session_status_code` (D09F00) foi
+>   capturado e a **matriz `should_open_incident`** decide abertura (atrás da flag
+>   `use_d09f00_matrix`). Ver [[../modules/modulo-backup-cove-glpi]] para o estado real.
+> - Existem **10 edge functions backup-*** (não 4) e **8 tabelas novas** (feature_flags, fila
+>   de e-mail, relatório semanal, etc).
+> - Cron de `backup-auto-tickets` é **diário 04:00 UTC**, não ~5min.
+> Use [[../modules/modulo-backup-cove-glpi]] como fonte atual; estes docs ficam como histórico
+> do mapeamento de campos da API (que continua válido).
+
 ---
 
 ## 📌 INÍCIO RÁPIDO
