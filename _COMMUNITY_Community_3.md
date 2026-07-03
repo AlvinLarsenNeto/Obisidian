@@ -1,0 +1,319 @@
+---
+type: community
+cohesion: 0.01
+members: 269
+---
+
+# Community_3
+
+**Cohesion:** 0.01 - loosely connected
+**Members:** 269 nodes
+
+## Members
+- [[.mapApiApontamentoToDomain()]] - code - ASV\source-git\src\modules\operational-management\infrastructure\adapters\index.ts
+- [[.mapApiTicketToDomain()]] - code - ASV\source-git\src\modules\operational-management\infrastructure\adapters\index.ts
+- [[AcademyBadgesAdminPage.tsx]] - code - ASV\source-git\src\pages\AcademyBadgesAdminPage.tsx
+- [[CategorySelector.tsx]] - code - ASV\source-git\src\components\tickets\CategorySelector.tsx
+- [[CrmInvoiceModal.tsx]] - code - ASV\source-git\src\components\crm\CrmInvoiceModal.tsx
+- [[CustomTooltip()_3]] - code - ASV\source-git\src\pages\msp\MspBillingTargetsPage.tsx
+- [[D4SignDocumentsPage.tsx]] - code - ASV\source-git\src\pages\D4SignDocumentsPage.tsx
+- [[DriverStartTripDialog.tsx]] - code - ASV\source-git\src\components\fleet\driver\DriverStartTripDialog.tsx
+- [[ExecutiveSummaryGrid()]] - code - ASV\source-git\src\components\team\ExecutiveSummaryGrid.tsx
+- [[ExecutiveSummaryGrid.tsx]] - code - ASV\source-git\src\components\team\ExecutiveSummaryGrid.tsx
+- [[FleetDriverDialog.tsx]] - code - ASV\source-git\src\components\fleet\FleetDriverDialog.tsx
+- [[FleetPeriodFilter.tsx]] - code - ASV\source-git\src\components\fleet\FleetPeriodFilter.tsx
+- [[FleetReservationDialog.tsx]] - code - ASV\source-git\src\components\fleet\FleetReservationDialog.tsx
+- [[GlpiVerificationTab()]] - code - ASV\source-git\src\components\backup\glpi-verification\GlpiVerificationTab.tsx
+- [[GlpiVerificationTab.tsx]] - code - ASV\source-git\src\components\backup\glpi-verification\GlpiVerificationTab.tsx
+- [[ImportBudgetDialog.tsx]] - code - ASV\source-git\src\pages\msp\components\ImportBudgetDialog.tsx
+- [[ModuleManagerEnhanced.tsx]] - code - ASV\source-git\src\components\academy\admin\ModuleManagerEnhanced.tsx
+- [[MspBillingTargetsPage.tsx]] - code - ASV\source-git\src\pages\msp\MspBillingTargetsPage.tsx
+- [[MspClientDetailPage.tsx]] - code - ASV\source-git\src\pages\msp\MspClientDetailPage.tsx
+- [[MspProfitabilityClientsPage.tsx]] - code - ASV\source-git\src\pages\msp\MspProfitabilityClientsPage.tsx
+- [[MspServiceLinesPage.tsx]] - code - ASV\source-git\src\pages\msp\MspServiceLinesPage.tsx
+- [[OperationalAdapter]] - code - ASV\source-git\src\modules\operational-management\infrastructure\adapters\index.ts
+- [[OperationalTrendsCharts.tsx]] - code - ASV\source-git\src\components\team\OperationalTrendsCharts.tsx
+- [[ReportMonthlyUsage.tsx]] - code - ASV\source-git\src\components\reports\ReportMonthlyUsage.tsx
+- [[SolutionFormDrawer.tsx]] - code - ASV\source-git\src\components\tickets\detail\SolutionFormDrawer.tsx
+- [[SolutionFormPanel.tsx]] - code - ASV\source-git\src\components\tickets\detail\SolutionFormPanel.tsx
+- [[SortIcon()_12]] - code - ASV\source-git\src\pages\msp\MspProfitabilityClientsPage.tsx
+- [[SortableHead()]] - code - ASV\source-git\src\pages\D4SignDocumentsPage.tsx
+- [[String()_1]] - code - ASV\source-git\src\pages\admin\BackupReportSettingsPage.tsx
+- [[SurveyImportPage.tsx]] - code - ASV\source-git\src\pages\SurveyImportPage.tsx
+- [[TaskFormDrawer.tsx]] - code - ASV\source-git\src\components\tickets\detail\TaskFormDrawer.tsx
+- [[TechnicianDispatchBoard.tsx]] - code - ASV\source-git\src\components\team\dispatch\TechnicianDispatchBoard.tsx
+- [[TechnicianGoalsPage.tsx]] - code - ASV\source-git\src\pages\TechnicianGoalsPage.tsx
+- [[TicketDetailDrawer.tsx]] - code - ASV\source-git\src\components\tickets\TicketDetailDrawer.tsx
+- [[ValidationRequestDrawer.tsx]] - code - ASV\source-git\src\components\tickets\detail\ValidationRequestDrawer.tsx
+- [[ValidationRequestPanel.tsx]] - code - ASV\source-git\src\components\tickets\detail\ValidationRequestPanel.tsx
+- [[adjustedDeadline()]] - code - ASV\source-git\supabase\functions\glpi-mysql-lab\index.ts
+- [[aggregateMonth()]] - code - ASV\source-git\supabase\functions\glpi-debug-sla\index.ts
+- [[appendBrtOffset()]] - code - ASV\source-git\supabase\functions\glpi-sync-solved-tickets\index.ts
+- [[applyCardFilterServerSide()]] - code - ASV\source-git\supabase\functions\glpi-mysql-lab\index.ts
+- [[applyRecoveredUaZapiTextPayload()]] - code - ASV\source-git\supabase\functions\_shared\uazapi-normalizer.ts
+- [[auditRolling30()]] - code - ASV\source-git\supabase\functions\glpi-debug-sla\index.ts
+- [[calcularDiasUteisMesAte()]] - code - ASV\source-git\src\utils\operational-utils.ts
+- [[calculateExpandedStats()]] - code - ASV\source-git\supabase\functions\glpi-mysql-lab\index.ts
+- [[calculateOperatorStats()]] - code - ASV\source-git\supabase\functions\glpi-mysql-lab\index.ts
+- [[calculateSlaBreakdown()]] - code - ASV\source-git\supabase\functions\_shared\slaMetrics.ts
+- [[calculateSlaRate()]] - code - ASV\source-git\supabase\functions\_shared\slaMetrics.ts
+- [[canGoToNextStep()_1]] - code - ASV\source-git\src\components\fleet\driver\DriverStartTripDialog.tsx
+- [[chunkErrorHandler.ts]] - code - ASV\source-git\src\lib\chunkErrorHandler.ts
+- [[classificarTipoTicket()]] - code - ASV\source-git\src\utils\operational-utils.ts
+- [[close()_2]] - code - ASV\source-git\src\pages\msp\MspServiceLinesPage.tsx
+- [[closedAtForStats()]] - code - ASV\source-git\supabase\functions\glpi-mysql-lab\index.ts
+- [[cn()_30]] - code - ASV\source-git\src\components\team\ExecutiveSummaryGrid.tsx
+- [[computeFleetPeriod()]] - code - ASV\source-git\src\components\fleet\FleetPeriodFilter.tsx
+- [[computeMetrics()]] - code - ASV\source-git\src\components\team\ExecutiveSummaryGrid.tsx
+- [[computeRangeFromPeriod()]] - code - ASV\source-git\src\hooks\useUrlFilters.ts
+- [[connectFresh()]] - code - ASV\source-git\supabase\functions\glpi-mysql-lab\index.ts
+- [[diagnoseTicket()]] - code - ASV\source-git\supabase\functions\glpi-debug-sla\index.ts
+- [[displayName()]] - code - ASV\source-git\src\components\tickets\detail\ValidationRequestDrawer.tsx
+- [[displayName()_1]] - code - ASV\source-git\src\components\tickets\detail\ValidationRequestPanel.tsx
+- [[disposeClient()]] - code - ASV\source-git\supabase\functions\glpi-mysql-lab\index.ts
+- [[effectiveWaitingExpr()]] - code - ASV\source-git\supabase\functions\glpi-mysql-lab\index.ts
+- [[ehFeriado()]] - code - ASV\source-git\src\utils\operational-utils.ts
+- [[escapeSqlValue()]] - code - ASV\source-git\supabase\functions\glpi-fetch-kb\index.ts
+- [[exportFilteredRows()]] - code - ASV\source-git\src\pages\SurveyImportPage.tsx
+- [[extractEmail()]] - code - ASV\source-git\src\pages\SurveyImportPage.tsx
+- [[extractNumericValue()]] - code - ASV\source-git\supabase\functions\glpi-fetch-kb\index.ts
+- [[extractRecoveredText()]] - code - ASV\source-git\supabase\functions\_shared\uazapi-normalizer.ts
+- [[fetchCategories()_1]] - code - ASV\source-git\src\components\tickets\CategorySelector.tsx
+- [[fetchGroupInfo()]] - code - ASV\source-git\supabase\functions\whatsapp-group-participants\index.ts
+- [[fetchMotorista()]] - code - ASV\source-git\src\components\fleet\driver\DriverStartTripDialog.tsx
+- [[fileToBase64()_4]] - code - ASV\source-git\src\components\tickets\detail\SolutionFormPanel.tsx
+- [[fileToBase64()_5]] - code - ASV\source-git\src\components\tickets\detail\TaskFormDrawer.tsx
+- [[fileToBase64()_7]] - code - ASV\source-git\src\components\tickets\detail\ValidationRequestPanel.tsx
+- [[filterByPeriod()]] - code - ASV\source-git\src\components\team\ExecutiveSummaryGrid.tsx
+- [[filterCategories()]] - code - ASV\source-git\src\components\tickets\CategorySelector.tsx
+- [[fmt()_9]] - code - ASV\source-git\src\pages\msp\MspClientDetailPage.tsx
+- [[fmt()_11]] - code - ASV\source-git\src\pages\msp\MspProfitabilityClientsPage.tsx
+- [[fmtCurrency()_7]] - code - ASV\source-git\src\pages\msp\MspClientDetailPage.tsx
+- [[fmtDDMM()]] - code - ASV\source-git\src\components\team\OperationalTrendsCharts.tsx
+- [[fmtHours()_1]] - code - ASV\source-git\src\pages\msp\MspClientDetailPage.tsx
+- [[fmtHours()_2]] - code - ASV\source-git\src\pages\msp\MspProfitabilityClientsPage.tsx
+- [[format()_8]] - code - ASV\source-git\src\pages\msp\MspProfitabilityClientsPage.tsx
+- [[formatElapsedFromTimer()]] - code - ASV\source-git\src\hooks\useActiveTimer.ts
+- [[formatHours()_1]] - code - ASV\source-git\src\components\reports\ReportMonthlyUsage.tsx
+- [[formatInputBRL()]] - code - ASV\source-git\src\pages\msp\MspBillingTargetsPage.tsx
+- [[formatPhoneBR()]] - code - ASV\source-git\supabase\functions\whatsapp-group-participants\index.ts
+- [[formatSlaRate()]] - code - ASV\source-git\src\lib\slaMetrics.ts
+- [[formatSqlWithParams()]] - code - ASV\source-git\supabase\functions\glpi-fetch-kb\index.ts
+- [[formatTimeDiff()]] - code - ASV\source-git\src\components\tickets\detail\SolutionFormPanel.tsx
+- [[formatValue()_2]] - code - ASV\source-git\src\components\reports\ReportMonthlyUsage.tsx
+- [[formatarHoras()]] - code - ASV\source-git\src\utils\operational-utils.ts
+- [[generateInvoiceNumber()]] - code - ASV\source-git\src\components\crm\CrmInvoiceModal.tsx
+- [[getActiveLesson()]] - code - ASV\source-git\src\components\academy\admin\ModuleManagerEnhanced.tsx
+- [[getActiveModule()]] - code - ASV\source-git\src\components\academy\admin\ModuleManagerEnhanced.tsx
+- [[getActiveTimersCount()]] - code - ASV\source-git\src\hooks\useActiveTimer.ts
+- [[getAdjustmentLabel()]] - code - ASV\source-git\src\pages\msp\MspServiceLinesPage.tsx
+- [[getAllActiveTimers()]] - code - ASV\source-git\src\hooks\useActiveTimer.ts
+- [[getBarColor()_5]] - code - ASV\source-git\src\pages\msp\MspBillingTargetsPage.tsx
+- [[getBillingLabel()_1]] - code - ASV\source-git\src\pages\msp\MspServiceLinesPage.tsx
+- [[getCategoryLabel()_1]] - code - ASV\source-git\src\pages\msp\MspServiceLinesPage.tsx
+- [[getClient()]] - code - ASV\source-git\supabase\functions\glpi-mysql-lab\index.ts
+- [[getCostDisplayValue()]] - code - ASV\source-git\src\pages\msp\MspBillingTargetsPage.tsx
+- [[getCriteriaLabel()]] - code - ASV\source-git\src\pages\AcademyBadgesAdminPage.tsx
+- [[getDisplayValue()]] - code - ASV\source-git\src\pages\msp\MspBillingTargetsPage.tsx
+- [[getDocCreated()]] - code - ASV\source-git\src\pages\D4SignDocumentsPage.tsx
+- [[getDocName()]] - code - ASV\source-git\src\pages\D4SignDocumentsPage.tsx
+- [[getDocStatus()]] - code - ASV\source-git\src\pages\D4SignDocumentsPage.tsx
+- [[getDocUuid()]] - code - ASV\source-git\src\pages\D4SignDocumentsPage.tsx
+- [[getField()]] - code - ASV\source-git\supabase\functions\_shared\slaMetrics.ts
+- [[getFirstResponseMinutes()]] - code - ASV\source-git\supabase\functions\glpi-mysql-lab\index.ts
+- [[getLessonIcon()_1]] - code - ASV\source-git\src\components\academy\admin\ModuleManagerEnhanced.tsx
+- [[getLessonIds()]] - code - ASV\source-git\src\components\academy\admin\ModuleManagerEnhanced.tsx
+- [[getMatchingContract()]] - code - ASV\source-git\src\pages\D4SignDocumentsPage.tsx
+- [[getMcColor()]] - code - ASV\source-git\src\pages\msp\MspBillingTargetsPage.tsx
+- [[getMcDotColor()]] - code - ASV\source-git\src\pages\msp\MspBillingTargetsPage.tsx
+- [[getReferenceDateBRTDisplay()]] - code - ASV\source-git\src\components\backup\glpi-verification\GlpiVerificationTab.tsx
+- [[getRevenueType()]] - code - ASV\source-git\src\pages\msp\MspServiceLinesPage.tsx
+- [[getServiceCosts()]] - code - ASV\source-git\src\pages\msp\MspClientDetailPage.tsx
+- [[getServiceRevenue()]] - code - ASV\source-git\src\pages\msp\MspClientDetailPage.tsx
+- [[getStatusColor()_2]] - code - ASV\source-git\src\pages\msp\MspBillingTargetsPage.tsx
+- [[getStoredTimerForTicket()]] - code - ASV\source-git\src\hooks\useActiveTimer.ts
+- [[getStoredTimers()]] - code - ASV\source-git\src\hooks\useActiveTimer.ts
+- [[handleApplyTreeSelection()]] - code - ASV\source-git\src\components\tickets\CategorySelector.tsx
+- [[handleCancel()_5]] - code - ASV\source-git\src\pages\D4SignDocumentsPage.tsx
+- [[handleCelebrationClose()]] - code - ASV\source-git\src\components\tickets\detail\SolutionFormPanel.tsx
+- [[handleClose()_14]] - code - ASV\source-git\src\pages\msp\components\ImportBudgetDialog.tsx
+- [[handleCloseDialog()]] - code - ASV\source-git\src\pages\AcademyBadgesAdminPage.tsx
+- [[handleCnhUpload()]] - code - ASV\source-git\src\components\fleet\FleetDriverDialog.tsx
+- [[handleConfirmEdit()]] - code - ASV\source-git\src\components\tickets\TicketDetailDrawer.tsx
+- [[handleCreateLesson()_1]] - code - ASV\source-git\src\components\academy\admin\ModuleManagerEnhanced.tsx
+- [[handleCreateModule()_1]] - code - ASV\source-git\src\components\academy\admin\ModuleManagerEnhanced.tsx
+- [[handleDeleteLesson()_1]] - code - ASV\source-git\src\components\academy\admin\ModuleManagerEnhanced.tsx
+- [[handleDeleteModule()_1]] - code - ASV\source-git\src\components\academy\admin\ModuleManagerEnhanced.tsx
+- [[handleDragCancel()]] - code - ASV\source-git\src\components\academy\admin\ModuleManagerEnhanced.tsx
+- [[handleDragEnd()]] - code - ASV\source-git\src\components\academy\admin\ModuleManagerEnhanced.tsx
+- [[handleDragStart()]] - code - ASV\source-git\src\components\academy\admin\ModuleManagerEnhanced.tsx
+- [[handleEdit()_18]] - code - ASV\source-git\src\pages\TechnicianGoalsPage.tsx
+- [[handleEditLesson()_1]] - code - ASV\source-git\src\components\academy\admin\ModuleManagerEnhanced.tsx
+- [[handleEditModule()_1]] - code - ASV\source-git\src\components\academy\admin\ModuleManagerEnhanced.tsx
+- [[handleFileSelect()_7]] - code - ASV\source-git\src\pages\msp\components\ImportBudgetDialog.tsx
+- [[handleGenerateSolution()_2]] - code - ASV\source-git\src\components\tickets\detail\SolutionFormDrawer.tsx
+- [[handleGenerateSolution()_3]] - code - ASV\source-git\src\components\tickets\detail\SolutionFormPanel.tsx
+- [[handleImport()_5]] - code - ASV\source-git\src\pages\msp\components\ImportBudgetDialog.tsx
+- [[handleImport()_2]] - code - ASV\source-git\src\pages\SurveyImportPage.tsx
+- [[handleImproveDescription()_2]] - code - ASV\source-git\src\components\tickets\detail\TaskFormDrawer.tsx
+- [[handleKeyDown()_7]] - code - ASV\source-git\src\components\tickets\TicketDetailDrawer.tsx
+- [[handleLessonSaved()_1]] - code - ASV\source-git\src\components\academy\admin\ModuleManagerEnhanced.tsx
+- [[handleNext()_1]] - code - ASV\source-git\src\components\fleet\driver\DriverStartTripDialog.tsx
+- [[handleOpenDialog()]] - code - ASV\source-git\src\pages\AcademyBadgesAdminPage.tsx
+- [[handlePaste()]] - code - ASV\source-git\src\components\tickets\detail\ValidationRequestPanel.tsx
+- [[handlePrev()_1]] - code - ASV\source-git\src\components\fleet\driver\DriverStartTripDialog.tsx
+- [[handleSave()_51]] - code - ASV\source-git\src\pages\AcademyBadgesAdminPage.tsx
+- [[handleSave()_64]] - code - ASV\source-git\src\pages\TechnicianGoalsPage.tsx
+- [[handleSaveHours()]] - code - ASV\source-git\src\components\reports\ReportMonthlyUsage.tsx
+- [[handleSaveModule()_1]] - code - ASV\source-git\src\components\academy\admin\ModuleManagerEnhanced.tsx
+- [[handleSort()_14]] - code - ASV\source-git\src\pages\msp\MspProfitabilityClientsPage.tsx
+- [[handleStartEdit()_1]] - code - ASV\source-git\src\components\tickets\TicketDetailDrawer.tsx
+- [[handleStartTrip()]] - code - ASV\source-git\src\components\fleet\driver\DriverStartTripDialog.tsx
+- [[handleSubmit()_7]] - code - ASV\source-git\src\components\crm\CrmInvoiceModal.tsx
+- [[handleSubmit()_11]] - code - ASV\source-git\src\components\fleet\FleetDriverDialog.tsx
+- [[handleSubmit()_12]] - code - ASV\source-git\src\components\fleet\FleetReservationDialog.tsx
+- [[handleSubmit()_55]] - code - ASV\source-git\src\components\tickets\detail\SolutionFormDrawer.tsx
+- [[handleSubmit()_56]] - code - ASV\source-git\src\components\tickets\detail\SolutionFormPanel.tsx
+- [[handleSubmit()_57]] - code - ASV\source-git\src\components\tickets\detail\TaskFormDrawer.tsx
+- [[handleSubmit()_59]] - code - ASV\source-git\src\components\tickets\detail\ValidationRequestDrawer.tsx
+- [[handleSubmit()_60]] - code - ASV\source-git\src\components\tickets\detail\ValidationRequestPanel.tsx
+- [[hhmmToDecimal()]] - code - ASV\source-git\src\pages\gamification\utils\parseEspelhoDePonto.ts
+- [[hhmmToMinutes()]] - code - ASV\source-git\src\pages\gamification\utils\parseEspelhoDePonto.ts
+- [[index.ts_11]] - code - ASV\source-git\src\modules\operational-management\infrastructure\adapters\index.ts
+- [[index.ts_63]] - code - ASV\source-git\supabase\functions\glpi-debug-sla\index.ts
+- [[index.ts_64]] - code - ASV\source-git\supabase\functions\glpi-fetch-hours\index.ts
+- [[index.ts_65]] - code - ASV\source-git\supabase\functions\glpi-fetch-kb\index.ts
+- [[index.ts_68]] - code - ASV\source-git\supabase\functions\glpi-mysql-lab\index.ts
+- [[index.ts_69]] - code - ASV\source-git\supabase\functions\glpi-mysql-sync\index.ts
+- [[index.ts_71]] - code - ASV\source-git\supabase\functions\glpi-sla-kpi\index.ts
+- [[index.ts_75]] - code - ASV\source-git\supabase\functions\glpi-sync-solved-tickets\index.ts
+- [[index.ts_135]] - code - ASV\source-git\supabase\functions\whatsapp-group-participants\index.ts
+- [[initChunkErrorHandler()]] - code - ASV\source-git\src\lib\chunkErrorHandler.ts
+- [[initializeTreeFromCategory()]] - code - ASV\source-git\src\components\tickets\CategorySelector.tsx
+- [[isChunkError()]] - code - ASV\source-git\src\lib\chunkErrorHandler.ts
+- [[isDateValue()]] - code - ASV\source-git\src\pages\gamification\utils\parseEspelhoDePonto.ts
+- [[isHeaderRow()]] - code - ASV\source-git\src\pages\gamification\utils\parseEspelhoDePonto.ts
+- [[isInfoOnlyInColA()]] - code - ASV\source-git\src\pages\gamification\utils\parseEspelhoDePonto.ts
+- [[isRealPhone()]] - code - ASV\source-git\supabase\functions\whatsapp-group-participants\index.ts
+- [[isResolved()]] - code - ASV\source-git\supabase\functions\_shared\slaMetrics.ts
+- [[isRowEmpty()]] - code - ASV\source-git\src\pages\gamification\utils\parseEspelhoDePonto.ts
+- [[isSlaAtRisk()]] - code - ASV\source-git\src\components\team\dispatch\TechnicianDispatchBoard.tsx
+- [[isSlaBreached()]] - code - ASV\source-git\src\components\team\dispatch\TechnicianDispatchBoard.tsx
+- [[isUaZapiUndecryptablePlaceholder()]] - code - ASV\source-git\supabase\functions\_shared\uazapi-normalizer.ts
+- [[load()]] - code - ASV\source-git\src\components\team\OperationalTrendsCharts.tsx
+- [[loadData()_1]] - code - ASV\source-git\src\components\academy\admin\ModuleManagerEnhanced.tsx
+- [[loadEntityHierarchy()]] - code - ASV\source-git\supabase\functions\glpi-sync-solved-tickets\index.ts
+- [[loadUsers()]] - code - ASV\source-git\src\components\tickets\detail\ValidationRequestDrawer.tsx
+- [[loadUsers()_1]] - code - ASV\source-git\src\components\tickets\detail\ValidationRequestPanel.tsx
+- [[mapActor()]] - code - ASV\source-git\supabase\functions\glpi-mysql-lab\index.ts
+- [[marginBadgeVariant()]] - code - ASV\source-git\src\pages\msp\MspProfitabilityClientsPage.tsx
+- [[marginColor()]] - code - ASV\source-git\src\pages\msp\MspProfitabilityClientsPage.tsx
+- [[minutesToHHMM()]] - code - ASV\source-git\src\pages\gamification\utils\parseEspelhoDePonto.ts
+- [[nearestDurationOption()]] - code - ASV\source-git\src\components\tickets\detail\TaskFormDrawer.tsx
+- [[normRef()_1]] - code - ASV\source-git\src\pages\msp\MspBillingTargetsPage.tsx
+- [[normalizeParticipant()]] - code - ASV\source-git\supabase\functions\whatsapp-group-participants\index.ts
+- [[normalizeUaZapiMessageId()]] - code - ASV\source-git\supabase\functions\_shared\uazapi-normalizer.ts
+- [[normalizeUaZapiPayload()]] - code - ASV\source-git\supabase\functions\_shared\uazapi-normalizer.ts
+- [[nowPlus()]] - code - ASV\source-git\src\components\fleet\FleetReservationDialog.tsx
+- [[onServiceLineChange()]] - code - ASV\source-git\src\pages\msp\MspClientDetailPage.tsx
+- [[openEdit()_11]] - code - ASV\source-git\src\pages\msp\MspServiceLinesPage.tsx
+- [[openEditClient()]] - code - ASV\source-git\src\pages\msp\MspClientDetailPage.tsx
+- [[openEditSvc()]] - code - ASV\source-git\src\pages\msp\MspClientDetailPage.tsx
+- [[openEditUnit()]] - code - ASV\source-git\src\pages\msp\MspClientDetailPage.tsx
+- [[openNew()_10]] - code - ASV\source-git\src\pages\msp\MspServiceLinesPage.tsx
+- [[openNewSvc()]] - code - ASV\source-git\src\pages\msp\MspClientDetailPage.tsx
+- [[openNewUnit()]] - code - ASV\source-git\src\pages\msp\MspClientDetailPage.tsx
+- [[operational-utils.ts]] - code - ASV\source-git\src\utils\operational-utils.ts
+- [[parseArr()]] - code - ASV\source-git\src\hooks\useUrlFilters.ts
+- [[parseBRL()_1]] - code - ASV\source-git\src\pages\msp\MspBillingTargetsPage.tsx
+- [[parseDate()_2]] - code - ASV\source-git\src\pages\SurveyImportPage.tsx
+- [[parseDate()_1]] - code - ASV\source-git\src\hooks\useUrlFilters.ts
+- [[parseEspelhoDePonto()]] - code - ASV\source-git\src\pages\gamification\utils\parseEspelhoDePonto.ts
+- [[parseEspelhoDePonto.ts]] - code - ASV\source-git\src\pages\gamification\utils\parseEspelhoDePonto.ts
+- [[parseEspelhoExcel()]] - code - ASV\source-git\src\pages\gamification\utils\parseEspelhoDePonto.ts
+- [[parseMoneyValue()]] - code - ASV\source-git\src\pages\msp\components\ImportBudgetDialog.tsx
+- [[parseRequester()]] - code - ASV\source-git\src\pages\SurveyImportPage.tsx
+- [[pctChange()]] - code - ASV\source-git\src\components\team\ExecutiveSummaryGrid.tsx
+- [[pingClient()]] - code - ASV\source-git\supabase\functions\glpi-mysql-lab\index.ts
+- [[preloadRequester()]] - code - ASV\source-git\src\components\tickets\detail\SolutionFormPanel.tsx
+- [[recoverUaZapiTextFromHistory()]] - code - ASV\source-git\supabase\functions\_shared\uazapi-normalizer.ts
+- [[removeStoredTimer()]] - code - ASV\source-git\src\hooks\useActiveTimer.ts
+- [[reset()_1]] - code - ASV\source-git\src\pages\msp\components\ImportBudgetDialog.tsx
+- [[resetForm()_8]] - code - ASV\source-git\src\pages\TechnicianGoalsPage.tsx
+- [[resolveCompany()]] - code - ASV\source-git\supabase\functions\glpi-mysql-sync\index.ts
+- [[resolvePeriod()]] - code - ASV\source-git\supabase\functions\glpi-sla-kpi\index.ts
+- [[runSync()]] - code - ASV\source-git\supabase\functions\glpi-sync-solved-tickets\index.ts
+- [[safeTimestamp()]] - code - ASV\source-git\supabase\functions\glpi-mysql-sync\index.ts
+- [[sanitizeMojibake()]] - code - ASV\source-git\src\pages\gamification\utils\parseEspelhoDePonto.ts
+- [[saveAll()]] - code - ASV\source-git\src\pages\msp\MspBillingTargetsPage.tsx
+- [[serializeArr()]] - code - ASV\source-git\src\hooks\useUrlFilters.ts
+- [[setStoredTimer()]] - code - ASV\source-git\src\hooks\useActiveTimer.ts
+- [[slaMetrics.ts]] - code - ASV\source-git\src\lib\slaMetrics.ts
+- [[slaMetrics.ts_1]] - code - ASV\source-git\supabase\functions\_shared\slaMetrics.ts
+- [[startCostEdit()]] - code - ASV\source-git\src\pages\msp\MspBillingTargetsPage.tsx
+- [[startEdit()_2]] - code - ASV\source-git\src\pages\msp\MspBillingTargetsPage.tsx
+- [[startOfWeek()]] - code - ASV\source-git\src\components\team\OperationalTrendsCharts.tsx
+- [[statusBadge()_1]] - code - ASV\source-git\src\pages\SurveyImportPage.tsx
+- [[stripHtmlForEdit()]] - code - ASV\source-git\src\components\tickets\detail\TaskFormDrawer.tsx
+- [[thisMonthUtc()]] - code - ASV\source-git\supabase\functions\glpi-debug-sla\index.ts
+- [[toBRL()_4]] - code - ASV\source-git\src\pages\msp\components\ImportBudgetDialog.tsx
+- [[toBRL()]] - code - ASV\source-git\src\pages\msp\MspBillingTargetsPage.tsx
+- [[toBRLCompact()]] - code - ASV\source-git\src\pages\msp\MspBillingTargetsPage.tsx
+- [[toDayKey()]] - code - ASV\source-git\supabase\functions\glpi-mysql-lab\index.ts
+- [[toggleAll()_6]] - code - ASV\source-git\src\pages\SurveyImportPage.tsx
+- [[toggleGroup()_3]] - code - ASV\source-git\src\pages\msp\components\ImportBudgetDialog.tsx
+- [[toggleModule()_1]] - code - ASV\source-git\src\components\academy\admin\ModuleManagerEnhanced.tsx
+- [[toggleRow()_1]] - code - ASV\source-git\src\pages\SurveyImportPage.tsx
+- [[toggleSort()_4]] - code - ASV\source-git\src\pages\D4SignDocumentsPage.tsx
+- [[tonePctHigher()]] - code - ASV\source-git\src\components\team\ExecutiveSummaryGrid.tsx
+- [[triggerSatisfactionSurvey()]] - code - ASV\source-git\src\components\tickets\detail\SolutionFormDrawer.tsx
+- [[triggerSatisfactionSurvey()_1]] - code - ASV\source-git\src\components\tickets\detail\SolutionFormPanel.tsx
+- [[tryReload()]] - code - ASV\source-git\src\lib\chunkErrorHandler.ts
+- [[uazapi-normalizer.ts]] - code - ASV\source-git\supabase\functions\_shared\uazapi-normalizer.ts
+- [[useActiveTimer()]] - code - ASV\source-git\src\hooks\useActiveTimer.ts
+- [[useActiveTimer.ts]] - code - ASV\source-git\src\hooks\useActiveTimer.ts
+- [[useBackupVerificationTickets()]] - code - ASV\source-git\src\hooks\backup\useBackupVerificationTickets.ts
+- [[useBackupVerificationTickets.ts]] - code - ASV\source-git\src\hooks\backup\useBackupVerificationTickets.ts
+- [[useUrlFilters()]] - code - ASV\source-git\src\hooks\useUrlFilters.ts
+- [[useUrlFilters.ts]] - code - ASV\source-git\src\hooks\useUrlFilters.ts
+- [[utcDate()]] - code - ASV\source-git\supabase\functions\glpi-mysql-sync\index.ts
+- [[utcDateNullable()]] - code - ASV\source-git\supabase\functions\glpi-mysql-sync\index.ts
+- [[weekKeyOf()]] - code - ASV\source-git\src\components\team\OperationalTrendsCharts.tsx
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Community_3
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 22 edges to [[_COMMUNITY_Community_7]]
+- 21 edges to [[_COMMUNITY_Community_4]]
+- 20 edges to [[_COMMUNITY_Community_2]]
+- 13 edges to [[_COMMUNITY_Community_5]]
+- 8 edges to [[_COMMUNITY_Community_8]]
+- 6 edges to [[_COMMUNITY_Community_1]]
+- 5 edges to [[_COMMUNITY_Community_9]]
+- 3 edges to [[_COMMUNITY_Community_0]]
+- 2 edges to [[_COMMUNITY_Community_6]]
+- 2 edges to [[_COMMUNITY_Community_39]]
+- 2 edges to [[_COMMUNITY_Community_20]]
+- 2 edges to [[_COMMUNITY_Community_11]]
+- 1 edge to [[_COMMUNITY_Community_23]]
+- 1 edge to [[_COMMUNITY_Community_25]]
+- 1 edge to [[_COMMUNITY_Community_47]]
+- 1 edge to [[_COMMUNITY_Community_63]]
+- 1 edge to [[_COMMUNITY_Community_22]]
+- 1 edge to [[_COMMUNITY_Community_15]]
+- 1 edge to [[_COMMUNITY_Community_50]]
+- 1 edge to [[_COMMUNITY_Community_37]]
+- 1 edge to [[_COMMUNITY_Community_10]]
+- 1 edge to [[_COMMUNITY_Community_44]]
+
+## Top bridge nodes
+- [[String()_1]] - degree 151, connects to 21 communities
+- [[handleFileSelect()_7]] - degree 6, connects to 3 communities
+- [[calculateExpandedStats()]] - degree 7, connects to 2 communities
+- [[handleSubmit()_56]] - degree 6, connects to 2 communities
+- [[fetchCategories()_1]] - degree 4, connects to 2 communities

@@ -1,0 +1,22 @@
+---
+source_file: "ASV\source-git\src\lib\glpi.ts"
+type: "code"
+community: "Community_2"
+location: "L1321"
+tags:
+  - graphify/code
+  - graphify/INFERRED
+  - community/Community_2
+---
+
+# unassignGLPITechnician()
+
+## Connections
+- [[getAuthToken()]] - `calls` [EXTRACTED]
+- [[glpi.ts]] - `contains` [EXTRACTED]
+- [[handleRemoveTechnician()]] - `calls` [INFERRED]
+- [[handleRemoveTechnician()_1]] - `calls` [INFERRED]
+- [[handleRemoveTechnician()_2]] - `calls` [INFERRED]
+- [[json()]] - `calls` [INFERRED]
+
+#graphify/code #graphify/INFERRED #community/Community_2

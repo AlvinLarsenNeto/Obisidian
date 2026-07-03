@@ -1,0 +1,18 @@
+---
+source_file: "ASV\source-git\supabase\functions\academy-study-reminders\index.ts"
+type: "code"
+community: "Community_5"
+location: "L192"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_5
+---
+
+# sendReminderEmail()
+
+## Connections
+- [[get()]] - `calls` [INFERRED]
+- [[index.ts_17]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_5

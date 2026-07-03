@@ -1,0 +1,19 @@
+---
+source_file: "ASV\source-git\src\components\projects\ProjectAIChatModal.tsx"
+type: "code"
+community: "Community_101"
+location: "L96"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_101
+---
+
+# streamChat()
+
+## Connections
+- [[ProjectAIChatModal.tsx]] - `contains` [EXTRACTED]
+- [[handleQuickPrompt()]] - `calls` [EXTRACTED]
+- [[handleSubmit()_46]] - `calls` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_101

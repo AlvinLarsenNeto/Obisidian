@@ -1,0 +1,20 @@
+---
+source_file: "ASV\source-git\supabase\functions\cove\index.ts"
+type: "code"
+community: "Community_24"
+location: "L1245"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_24
+---
+
+# handleGetErrorDetails()
+
+## Connections
+- [[coveCall()]] - `calls` [EXTRACTED]
+- [[index.ts_37]] - `contains` [EXTRACTED]
+- [[isPortalConfigured()]] - `calls` [EXTRACTED]
+- [[test()_2]] - `calls` [INFERRED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_24

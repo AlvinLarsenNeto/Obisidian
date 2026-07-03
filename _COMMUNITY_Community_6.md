@@ -1,0 +1,240 @@
+---
+type: community
+cohesion: 0.01
+members: 201
+---
+
+# Community_6
+
+**Cohesion:** 0.01 - loosely connected
+**Members:** 201 nodes
+
+## Members
+- [[AcademyCertificateTemplatesPage.tsx]] - code - ASV\source-git\src\pages\AcademyCertificateTemplatesPage.tsx
+- [[AcademyCertificatesAdminPage.tsx]] - code - ASV\source-git\src\pages\AcademyCertificatesAdminPage.tsx
+- [[AcademyNotificationSettings.tsx]] - code - ASV\source-git\src\components\academy\admin\AcademyNotificationSettings.tsx
+- [[BackupReportsRedirectCard()]] - code - ASV\source-git\src\pages\NotificationSettingsPage.tsx
+- [[BitdefenderEndpointDetailModal.tsx]] - code - ASV\source-git\src\components\bitdefender\BitdefenderEndpointDetailModal.tsx
+- [[BitdefenderExclusionsTab.tsx]] - code - ASV\source-git\src\components\bitdefender\BitdefenderExclusionsTab.tsx
+- [[BitdefenderPage.tsx]] - code - ASV\source-git\src\pages\BitdefenderPage.tsx
+- [[BitdefenderPushEventsPanel.tsx]] - code - ASV\source-git\src\components\bitdefender\BitdefenderPushEventsPanel.tsx
+- [[BitdefenderSOCActions.tsx]] - code - ASV\source-git\src\components\bitdefender\BitdefenderSOCActions.tsx
+- [[CertificateDetailsModal.tsx]] - code - ASV\source-git\src\components\academy\admin\CertificateDetailsModal.tsx
+- [[EmailTemplateManager.tsx]] - code - ASV\source-git\src\components\notifications\EmailTemplateManager.tsx
+- [[InstallLinkModal.tsx]] - code - ASV\source-git\src\components\bitdefender\InstallLinkModal.tsx
+- [[NotificationSettingsPage.tsx]] - code - ASV\source-git\src\pages\NotificationSettingsPage.tsx
+- [[PeopleExecutiveReport.tsx]] - code - ASV\source-git\src\components\people\reports\PeopleExecutiveReport.tsx
+- [[PolicyEditModal.tsx]] - code - ASV\source-git\src\components\bitdefender\PolicyEditModal.tsx
+- [[PositionDISCSection.tsx]] - code - ASV\source-git\src\components\people\positions\PositionDISCSection.tsx
+- [[ProjectConversationsTab.tsx]] - code - ASV\source-git\src\components\projects\ProjectConversationsTab.tsx
+- [[PublicProjectConversations.tsx]] - code - ASV\source-git\src\components\projects\public\PublicProjectConversations.tsx
+- [[PushEventDetailModal.tsx]] - code - ASV\source-git\src\components\bitdefender\PushEventDetailModal.tsx
+- [[QuizEditor.tsx]] - code - ASV\source-git\src\components\academy\admin\QuizEditor.tsx
+- [[SandboxResultModal.tsx]] - code - ASV\source-git\src\components\bitdefender\SandboxResultModal.tsx
+- [[SortableHeader()_1]] - code - ASV\source-git\src\pages\BitdefenderPage.tsx
+- [[TeamsNotificationSettings.tsx]] - code - ASV\source-git\src\components\notifications\TeamsNotificationSettings.tsx
+- [[TeamsNotificationTestDialog.tsx]] - code - ASV\source-git\src\components\notifications\TeamsNotificationTestDialog.tsx
+- [[VehicleInspectionForm.tsx]] - code - ASV\source-git\src\components\fleet\inspection\VehicleInspectionForm.tsx
+- [[WeeklyReportSettings.tsx]] - code - ASV\source-git\src\components\notifications\WeeklyReportSettings.tsx
+- [[WhatsAppChatWindow.tsx]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[WhatsAppReportsPage.tsx]] - code - ASV\source-git\src\pages\WhatsAppReportsPage.tsx
+- [[addOption()]] - code - ASV\source-git\src\components\academy\admin\QuizEditor.tsx
+- [[addRecipient()]] - code - ASV\source-git\src\components\academy\admin\AcademyNotificationSettings.tsx
+- [[addRecipient()_2]] - code - ASV\source-git\src\pages\NotificationSettingsPage.tsx
+- [[addRecipient()_1]] - code - ASV\source-git\src\components\notifications\WeeklyReportSettings.tsx
+- [[addRecipient()_3]] - code - ASV\source-git\src\pages\WhatsAppReportsPage.tsx
+- [[addToRemoveQueue()]] - code - ASV\source-git\src\hooks\use-toast.ts
+- [[applyPreset()]] - code - ASV\source-git\src\components\people\positions\PositionDISCSection.tsx
+- [[async()_5]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[bitdefenderExclusions.ts]] - code - ASV\source-git\src\lib\bitdefenderExclusions.ts
+- [[checkDISCBehavioralCoherence()]] - code - ASV\source-git\src\components\people\positions\PositionDISCSection.tsx
+- [[checkTeamsIntegration()]] - code - ASV\source-git\src\components\notifications\TeamsNotificationSettings.tsx
+- [[copyToClipboard()]] - code - ASV\source-git\src\components\bitdefender\BitdefenderEndpointDetailModal.tsx
+- [[copyToClipboard()_3]] - code - ASV\source-git\src\pages\BitdefenderPage.tsx
+- [[copyToClipboard()_1]] - code - ASV\source-git\src\components\bitdefender\BitdefenderPushEventsPanel.tsx
+- [[copyToClipboard()_2]] - code - ASV\source-git\src\components\bitdefender\PushEventDetailModal.tsx
+- [[dataUrlToBlob()]] - code - ASV\source-git\src\hooks\fleet\useFleetInspections.ts
+- [[dispatch()]] - code - ASV\source-git\src\hooks\use-toast.ts
+- [[downloadCertificatePDF()]] - code - ASV\source-git\src\utils\generateCertificatePDF.ts
+- [[fetchCertificates()]] - code - ASV\source-git\src\pages\AcademyCertificatesAdminPage.tsx
+- [[fetchEndpointsByAlertType()]] - code - ASV\source-git\src\pages\BitdefenderPage.tsx
+- [[fetchEvents()]] - code - ASV\source-git\src\components\bitdefender\BitdefenderEndpointDetailModal.tsx
+- [[fetchFilters()]] - code - ASV\source-git\src\pages\AcademyCertificatesAdminPage.tsx
+- [[fetchPatternMappings()]] - code - ASV\source-git\src\pages\BitdefenderPage.tsx
+- [[formatExclusionsForCSV()]] - code - ASV\source-git\src\lib\bitdefenderExclusions.ts
+- [[formatFullDate()]] - code - ASV\source-git\src\components\bitdefender\BitdefenderEndpointDetailModal.tsx
+- [[formatLastEvent()]] - code - ASV\source-git\src\components\bitdefender\BitdefenderPushEventsPanel.tsx
+- [[formatLastSeen()]] - code - ASV\source-git\src\components\bitdefender\BitdefenderEndpointDetailModal.tsx
+- [[formatLastSeen()_2]] - code - ASV\source-git\src\pages\BitdefenderPage.tsx
+- [[formatPhone()]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[formatPhoneNumber()_5]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[genId()]] - code - ASV\source-git\src\hooks\use-toast.ts
+- [[generateCertificatePDF()]] - code - ASV\source-git\src\utils\generateCertificatePDF.ts
+- [[generateCertificatePDF.ts]] - code - ASV\source-git\src\utils\generateCertificatePDF.ts
+- [[generateDISCDescription()]] - code - ASV\source-git\src\components\people\positions\PositionDISCSection.tsx
+- [[generateInspectionPdf()]] - code - ASV\source-git\src\lib\fleet\inspectionPdf.ts
+- [[generatePDF()]] - code - ASV\source-git\src\components\people\reports\PeopleExecutiveReport.tsx
+- [[generatePreview()]] - code - ASV\source-git\src\pages\WhatsAppReportsPage.tsx
+- [[getChangedSettings()]] - code - ASV\source-git\src\components\bitdefender\PolicyEditModal.tsx
+- [[getContactDisplayName()_2]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[getEventSeverityColor()]] - code - ASV\source-git\src\components\bitdefender\BitdefenderEndpointDetailModal.tsx
+- [[getExclusionTypeIcon()]] - code - ASV\source-git\src\lib\bitdefenderExclusions.ts
+- [[getExclusionTypeLabel()]] - code - ASV\source-git\src\lib\bitdefenderExclusions.ts
+- [[getFilteredCertificates()]] - code - ASV\source-git\src\pages\AcademyCertificatesAdminPage.tsx
+- [[getIndicator()]] - code - ASV\source-git\src\pages\WhatsAppReportsPage.tsx
+- [[getModuleBadges()]] - code - ASV\source-git\src\lib\bitdefenderExclusions.ts
+- [[getPeriodDates()]] - code - ASV\source-git\src\pages\NewReportPage.tsx
+- [[getScoreColor()_1]] - code - ASV\source-git\src\components\bitdefender\SandboxResultModal.tsx
+- [[getStatusBadge()]] - code - ASV\source-git\src\components\bitdefender\BitdefenderEndpointDetailModal.tsx
+- [[getStatusBadge()_15]] - code - ASV\source-git\src\pages\BitdefenderPage.tsx
+- [[getStatusBadge()_1]] - code - ASV\source-git\src\components\bitdefender\BitdefenderPushEventsPanel.tsx
+- [[getStatusBadge()_14]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[getStatusIcon()_5]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[getValue()]] - code - ASV\source-git\src\components\people\positions\PositionDISCSection.tsx
+- [[getVerdictDisplay()]] - code - ASV\source-git\src\components\bitdefender\SandboxResultModal.tsx
+- [[groupMessagesByDate()]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[handleActivate()]] - code - ASV\source-git\src\components\bitdefender\BitdefenderPushEventsPanel.tsx
+- [[handleAddToBlocklist()]] - code - ASV\source-git\src\components\bitdefender\SandboxResultModal.tsx
+- [[handleChange()_3]] - code - ASV\source-git\src\components\notifications\EmailTemplateManager.tsx
+- [[handleChange()_5]] - code - ASV\source-git\src\components\people\positions\PositionDISCSection.tsx
+- [[handleClose()_5]] - code - ASV\source-git\src\components\notifications\TeamsNotificationTestDialog.tsx
+- [[handleConfirmDelete()]] - code - ASV\source-git\src\pages\AcademyCertificateTemplatesPage.tsx
+- [[handleConfirmDelete()_1]] - code - ASV\source-git\src\pages\BitdefenderPage.tsx
+- [[handleCopy()]] - code - ASV\source-git\src\components\bitdefender\InstallLinkModal.tsx
+- [[handleCopyLink()]] - code - ASV\source-git\src\components\academy\admin\CertificateDetailsModal.tsx
+- [[handleCorrectChange()]] - code - ASV\source-git\src\components\academy\admin\QuizEditor.tsx
+- [[handleCreateTemplate()]] - code - ASV\source-git\src\pages\AcademyCertificateTemplatesPage.tsx
+- [[handleDayChange()]] - code - ASV\source-git\src\components\notifications\WeeklyReportSettings.tsx
+- [[handleDeactivate()]] - code - ASV\source-git\src\components\bitdefender\BitdefenderPushEventsPanel.tsx
+- [[handleDeleteClick()_1]] - code - ASV\source-git\src\pages\AcademyCertificateTemplatesPage.tsx
+- [[handleDeleteClick()_2]] - code - ASV\source-git\src\pages\BitdefenderPage.tsx
+- [[handleDeleteQuestion()]] - code - ASV\source-git\src\components\academy\admin\QuizEditor.tsx
+- [[handleDownloadPdf()]] - code - ASV\source-git\src\pages\AcademyCertificatesAdminPage.tsx
+- [[handleDownloadPreview()]] - code - ASV\source-git\src\pages\AcademyCertificateTemplatesPage.tsx
+- [[handleDuplicate()_1]] - code - ASV\source-git\src\pages\AcademyCertificateTemplatesPage.tsx
+- [[handleEventClick()_1]] - code - ASV\source-git\src\components\bitdefender\BitdefenderEndpointDetailModal.tsx
+- [[handleExport()_2]] - code - ASV\source-git\src\pages\AcademyCertificatesAdminPage.tsx
+- [[handleExportCSV()_1]] - code - ASV\source-git\src\components\bitdefender\BitdefenderExclusionsTab.tsx
+- [[handleFileSelect()_4]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[handleHourChange()]] - code - ASV\source-git\src\components\notifications\WeeklyReportSettings.tsx
+- [[handleImproveText()]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[handleIsolate()]] - code - ASV\source-git\src\components\bitdefender\BitdefenderSOCActions.tsx
+- [[handleKeyDown()_4]] - code - ASV\source-git\src\components\projects\ProjectConversationsTab.tsx
+- [[handleKeyDown()_5]] - code - ASV\source-git\src\components\projects\public\PublicProjectConversations.tsx
+- [[handleKeyDown()_10]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[handleLinkTicket()]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[handleModuleToggle()]] - code - ASV\source-git\src\components\bitdefender\BitdefenderPushEventsPanel.tsx
+- [[handleOnlineFilter()]] - code - ASV\source-git\src\pages\BitdefenderPage.tsx
+- [[handleOpenLink()]] - code - ASV\source-git\src\components\bitdefender\InstallLinkModal.tsx
+- [[handleOpenQuestionDialog()]] - code - ASV\source-git\src\components\academy\admin\QuizEditor.tsx
+- [[handleOptionChange()]] - code - ASV\source-git\src\components\academy\admin\QuizEditor.tsx
+- [[handlePaste()_1]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[handlePhotoUpload()]] - code - ASV\source-git\src\components\fleet\inspection\VehicleInspectionForm.tsx
+- [[handlePolicyChange()]] - code - ASV\source-git\src\components\bitdefender\BitdefenderExclusionsTab.tsx
+- [[handlePresetClick()]] - code - ASV\source-git\src\components\people\positions\PositionDISCSection.tsx
+- [[handleReactivate()]] - code - ASV\source-git\src\pages\AcademyCertificatesAdminPage.tsx
+- [[handleReminderDaysChange()]] - code - ASV\source-git\src\components\academy\admin\AcademyNotificationSettings.tsx
+- [[handleReset()]] - code - ASV\source-git\src\components\notifications\EmailTemplateManager.tsx
+- [[handleRestore()]] - code - ASV\source-git\src\components\bitdefender\BitdefenderSOCActions.tsx
+- [[handleRevoke()]] - code - ASV\source-git\src\pages\AcademyCertificatesAdminPage.tsx
+- [[handleSOCEndpointClick()]] - code - ASV\source-git\src\pages\BitdefenderPage.tsx
+- [[handleSave()_52]] - code - ASV\source-git\src\pages\AcademyCertificateTemplatesPage.tsx
+- [[handleSave()_2]] - code - ASV\source-git\src\components\academy\admin\AcademyNotificationSettings.tsx
+- [[handleSave()_13]] - code - ASV\source-git\src\components\notifications\EmailTemplateManager.tsx
+- [[handleSave()_63]] - code - ASV\source-git\src\pages\NotificationSettingsPage.tsx
+- [[handleSave()_5]] - code - ASV\source-git\src\components\bitdefender\PolicyEditModal.tsx
+- [[handleSave()_14]] - code - ASV\source-git\src\components\notifications\TeamsNotificationSettings.tsx
+- [[handleSave()_16]] - code - ASV\source-git\src\components\notifications\WeeklyReportSettings.tsx
+- [[handleSave()_66]] - code - ASV\source-git\src\pages\WhatsAppReportsPage.tsx
+- [[handleSaveQuestion()]] - code - ASV\source-git\src\components\academy\admin\QuizEditor.tsx
+- [[handleScan()]] - code - ASV\source-git\src\components\bitdefender\BitdefenderSOCActions.tsx
+- [[handleSearch()_6]] - code - ASV\source-git\src\pages\BitdefenderPage.tsx
+- [[handleSelectTemplate()_1]] - code - ASV\source-git\src\pages\AcademyCertificateTemplatesPage.tsx
+- [[handleSend()]] - code - ASV\source-git\src\components\projects\ProjectConversationsTab.tsx
+- [[handleSend()_1]] - code - ASV\source-git\src\components\projects\public\PublicProjectConversations.tsx
+- [[handleSend()_3]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[handleSendMedia()]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[handleSendTest()_1]] - code - ASV\source-git\src\components\notifications\WeeklyReportSettings.tsx
+- [[handleSendTest()_3]] - code - ASV\source-git\src\pages\WhatsAppReportsPage.tsx
+- [[handleSetDefault()]] - code - ASV\source-git\src\pages\AcademyCertificateTemplatesPage.tsx
+- [[handleSort()_7]] - code - ASV\source-git\src\pages\BitdefenderPage.tsx
+- [[handleStatusFilter()]] - code - ASV\source-git\src\pages\BitdefenderPage.tsx
+- [[handleSubmit()_14]] - code - ASV\source-git\src\components\fleet\inspection\VehicleInspectionForm.tsx
+- [[handleTest()]] - code - ASV\source-git\src\components\bitdefender\BitdefenderPushEventsPanel.tsx
+- [[handleTest()_1]] - code - ASV\source-git\src\components\notifications\TeamsNotificationTestDialog.tsx
+- [[handleToggle()]] - code - ASV\source-git\src\components\academy\admin\AcademyNotificationSettings.tsx
+- [[handleToggle()_16]] - code - ASV\source-git\src\pages\NotificationSettingsPage.tsx
+- [[handleToggle()_2]] - code - ASV\source-git\src\components\bitdefender\PolicyEditModal.tsx
+- [[handleToggle()_7]] - code - ASV\source-git\src\components\notifications\WeeklyReportSettings.tsx
+- [[handleTranscribe()]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[handleValidateKey()]] - code - ASV\source-git\src\components\bitdefender\BitdefenderPushEventsPanel.tsx
+- [[hasChanges()_1]] - code - ASV\source-git\src\components\notifications\EmailTemplateManager.tsx
+- [[hasChanges()]] - code - ASV\source-git\src\components\bitdefender\PolicyEditModal.tsx
+- [[hasRegisteredName()]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[hexToRgb()]] - code - ASV\source-git\src\utils\generateCertificatePDF.ts
+- [[initialItems()]] - code - ASV\source-git\src\components\fleet\inspection\VehicleInspectionForm.tsx
+- [[inspectionPdf.ts]] - code - ASV\source-git\src\lib\fleet\inspectionPdf.ts
+- [[isMediaPlaceholderOnly()]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[isMimeTypeOnly()]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[isOffline30Days()]] - code - ASV\source-git\src\pages\BitdefenderPage.tsx
+- [[isRecentAudio()]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[loadCompanies()_2]] - code - ASV\source-git\src\pages\NotificationSettingsPage.tsx
+- [[loadConfig()]] - code - ASV\source-git\src\components\academy\admin\AcademyNotificationSettings.tsx
+- [[loadImage()]] - code - ASV\source-git\src\lib\fleet\inspectionPdf.ts
+- [[loadPolicyDetails()]] - code - ASV\source-git\src\components\bitdefender\PolicyEditModal.tsx
+- [[loadPreviewStats()]] - code - ASV\source-git\src\pages\WhatsAppReportsPage.tsx
+- [[loadSettings()_2]] - code - ASV\source-git\src\pages\NotificationSettingsPage.tsx
+- [[loadSettings()]] - code - ASV\source-git\src\components\notifications\TeamsNotificationSettings.tsx
+- [[loadSettings()_1]] - code - ASV\source-git\src\components\notifications\WeeklyReportSettings.tsx
+- [[loadSettings()_3]] - code - ASV\source-git\src\pages\WhatsAppReportsPage.tsx
+- [[loadTemplates()]] - code - ASV\source-git\src\components\notifications\EmailTemplateManager.tsx
+- [[parseSettings()]] - code - ASV\source-git\src\components\bitdefender\PolicyEditModal.tsx
+- [[reducer()]] - code - ASV\source-git\src\hooks\use-toast.ts
+- [[removeOption()]] - code - ASV\source-git\src\components\academy\admin\QuizEditor.tsx
+- [[removePhoto()_1]] - code - ASV\source-git\src\components\fleet\inspection\VehicleInspectionForm.tsx
+- [[removeRecipient()]] - code - ASV\source-git\src\components\academy\admin\AcademyNotificationSettings.tsx
+- [[removeRecipient()_2]] - code - ASV\source-git\src\pages\NotificationSettingsPage.tsx
+- [[removeRecipient()_1]] - code - ASV\source-git\src\components\notifications\WeeklyReportSettings.tsx
+- [[removeRecipient()_3]] - code - ASV\source-git\src\pages\WhatsAppReportsPage.tsx
+- [[replaceVars()]] - code - ASV\source-git\src\components\notifications\EmailTemplateManager.tsx
+- [[resetToDefaults()]] - code - ASV\source-git\src\components\notifications\TeamsNotificationSettings.tsx
+- [[selectMention()]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[toast()]] - code - ASV\source-git\src\hooks\use-toast.ts
+- [[toggleItem()]] - code - ASV\source-git\src\components\fleet\inspection\VehicleInspectionForm.tsx
+- [[toggleSection()_2]] - code - ASV\source-git\src\pages\WhatsAppReportsPage.tsx
+- [[updateField()]] - code - ASV\source-git\src\components\notifications\TeamsNotificationSettings.tsx
+- [[updateMentionState()]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+- [[uploadInspectionFile()]] - code - ASV\source-git\src\hooks\fleet\useFleetInspections.ts
+- [[use-toast.ts_1]] - code - ASV\source-git\src\hooks\use-toast.ts
+- [[useCreateInspection()]] - code - ASV\source-git\src\hooks\fleet\useFleetInspections.ts
+- [[useFleetInspection()]] - code - ASV\source-git\src\hooks\fleet\useFleetInspections.ts
+- [[useFleetInspections()]] - code - ASV\source-git\src\hooks\fleet\useFleetInspections.ts
+- [[useFleetInspections.ts]] - code - ASV\source-git\src\hooks\fleet\useFleetInspections.ts
+- [[validateFileSize()]] - code - ASV\source-git\src\components\whatsapp\WhatsAppChatWindow.tsx
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Community_6
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 11 edges to [[_COMMUNITY_Community_4]]
+- 5 edges to [[_COMMUNITY_Community_8]]
+- 5 edges to [[_COMMUNITY_Community_2]]
+- 4 edges to [[_COMMUNITY_Community_9]]
+- 3 edges to [[_COMMUNITY_Community_1]]
+- 2 edges to [[_COMMUNITY_Community_3]]
+- 1 edge to [[_COMMUNITY_Community_7]]
+- 1 edge to [[_COMMUNITY_Community_11]]
+- 1 edge to [[_COMMUNITY_Community_19]]
+- 1 edge to [[_COMMUNITY_Community_67]]
+- 1 edge to [[_COMMUNITY_Community_14]]
+
+## Top bridge nodes
+- [[toast()]] - degree 55, connects to 3 communities
+- [[generatePDF()]] - degree 5, connects to 3 communities
+- [[WhatsAppChatWindow.tsx]] - degree 23, connects to 1 community
+- [[WhatsAppReportsPage.tsx]] - degree 10, connects to 1 community
+- [[use-toast.ts_1]] - degree 6, connects to 1 community

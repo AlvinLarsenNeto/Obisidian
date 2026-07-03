@@ -1,0 +1,324 @@
+---
+type: community
+cohesion: 0.01
+members: 282
+---
+
+# Community_2
+
+**Cohesion:** 0.01 - loosely connected
+**Members:** 282 nodes
+
+## Members
+- [[.authenticate()]] - code - ASV\source-git\supabase\functions\wazuh-sync\index.ts
+- [[.constructor()_5]] - code - ASV\source-git\supabase\functions\wazuh-sync\index.ts
+- [[.getAgents()]] - code - ASV\source-git\supabase\functions\wazuh-sync\index.ts
+- [[.getAlerts()_1]] - code - ASV\source-git\supabase\functions\wazuh-sync\index.ts
+- [[.getSCA()]] - code - ASV\source-git\supabase\functions\wazuh-sync\index.ts
+- [[.getSCAChecks()]] - code - ASV\source-git\supabase\functions\wazuh-sync\index.ts
+- [[.getVulnerabilities()]] - code - ASV\source-git\supabase\functions\wazuh-sync\index.ts
+- [[CreateProjectTicketModal.tsx]] - code - ASV\source-git\src\components\projects\CreateProjectTicketModal.tsx
+- [[GlpiBridgeSection.tsx]] - code - ASV\source-git\src\components\admin\glpi-bridge\GlpiBridgeSection.tsx
+- [[GroupAssignModal.tsx]] - code - ASV\source-git\src\components\tickets\GroupAssignModal.tsx
+- [[NewTicketModal.tsx]] - code - ASV\source-git\src\components\tickets\NewTicketModal.tsx
+- [[NextSyncCountdown()]] - code - ASV\source-git\src\components\admin\glpi-bridge\GlpiBridgeSection.tsx
+- [[ObserverAssignModal.tsx]] - code - ASV\source-git\src\components\tickets\ObserverAssignModal.tsx
+- [[ReportDeliveriesSection.tsx]] - code - ASV\source-git\src\components\reports\executive\ReportDeliveriesSection.tsx
+- [[RequesterAssignModal.tsx]] - code - ASV\source-git\src\components\tickets\RequesterAssignModal.tsx
+- [[SecurityTicketConfigModal.tsx]] - code - ASV\source-git\src\components\bitdefender\SecurityTicketConfigModal.tsx
+- [[TechnicianAssignModal.tsx]] - code - ASV\source-git\src\components\tickets\TechnicianAssignModal.tsx
+- [[TicketDetailEnterpriseModal.tsx]] - code - ASV\source-git\src\components\tickets\detail\TicketDetailEnterpriseModal.tsx
+- [[TicketDetailModal.tsx]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[TicketRowActions.tsx]] - code - ASV\source-git\src\components\tickets\TicketRowActions.tsx
+- [[TripLocationSection.tsx]] - code - ASV\source-git\src\components\fleet\trip-wizard\TripLocationSection.tsx
+- [[TripMapView()]] - code - ASV\source-git\src\components\fleet\trip-wizard\TripMapView.tsx
+- [[TripMapView.tsx]] - code - ASV\source-git\src\components\fleet\trip-wizard\TripMapView.tsx
+- [[WazuhAPI]] - code - ASV\source-git\supabase\functions\wazuh-sync\index.ts
+- [[addSigners()]] - code - ASV\source-git\supabase\functions\d4sign-service\index.ts
+- [[addTickets()]] - code - ASV\source-git\supabase\functions\report-ai-deliveries\index.ts
+- [[assignGLPIGroup()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[assignGLPIObserver()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[assignGLPIObserverByEmail()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[assignGLPIRequester()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[assignGLPIRequesterByEmail()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[assignGLPITechnician()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[assignSelfAsTechnician()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[buildDescriptionFromProject()]] - code - ASV\source-git\src\components\projects\CreateProjectTicketModal.tsx
+- [[buildIndividualMessage()]] - code - ASV\source-git\supabase\functions\teams-individual-summary\index.ts
+- [[buildNpsEmailHtml()]] - code - ASV\source-git\supabase\functions\send-nps-survey\index.ts
+- [[buildSubscriptionMap()]] - code - ASV\source-git\supabase\functions\m365-sync\index.ts
+- [[buildTimelineEvents()]] - code - ASV\source-git\src\components\tickets\detail\TicketDetailEnterpriseModal.tsx
+- [[calculateDailyData()]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[calculateRiskScore()]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[calculateRoute()]] - code - ASV\source-git\src\components\fleet\trip-wizard\TripLocationSection.tsx
+- [[callAI()_1]] - code - ASV\source-git\supabase\functions\generate-reply-suggestion\index.ts
+- [[cancelDocument()]] - code - ASV\source-git\supabase\functions\d4sign-service\index.ts
+- [[checkAntiSpam()]] - code - ASV\source-git\supabase\functions\teams-scheduled-reports\index.ts
+- [[checkCoveHealth()]] - code - ASV\source-git\src\hooks\useCoveBackup.ts
+- [[checkGLPIHealth()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[cleanEntityName()_1]] - code - ASV\source-git\src\components\tickets\detail\TicketDetailEnterpriseModal.tsx
+- [[cleanEntityName()]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[createGLPITicket()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[createReportSnapshot()]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[d4signRequest()]] - code - ASV\source-git\supabase\functions\d4sign-service\index.ts
+- [[decodeHtmlEntities()_3]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[decodeHtmlEntities()]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[downloadSignedPdf()]] - code - ASV\source-git\supabase\functions\d4sign-webhook\index.ts
+- [[extractTokenLike()]] - code - ASV\source-git\supabase\functions\d4sign-service\index.ts
+- [[featureFlags.ts]] - code - ASV\source-git\src\config\featureFlags.ts
+- [[fetchCategories()]] - code - ASV\source-git\src\components\projects\CreateProjectTicketModal.tsx
+- [[fetchCategories()_2]] - code - ASV\source-git\src\components\tickets\NewTicketModal.tsx
+- [[fetchEntityOptions()]] - code - ASV\source-git\src\components\projects\CreateProjectTicketModal.tsx
+- [[fetchGlpiGroups()]] - code - ASV\source-git\src\components\projects\CreateProjectTicketModal.tsx
+- [[fetchGlpiUser()]] - code - ASV\source-git\supabase\functions\satisfaction-survey-auto\index.ts
+- [[fetchInitialUsers()]] - code - ASV\source-git\src\components\tickets\NewTicketModal.tsx
+- [[fetchLicenses()]] - code - ASV\source-git\supabase\functions\m365-sync\index.ts
+- [[fetchMailboxUsage()]] - code - ASV\source-git\supabase\functions\m365-sync\index.ts
+- [[fetchOSRMGeometry()]] - code - ASV\source-git\src\components\fleet\trip-wizard\TripMapView.tsx
+- [[fetchOSRMRoute()]] - code - ASV\source-git\src\components\fleet\trip-wizard\TripLocationSection.tsx
+- [[fetchOpenTickets()]] - code - ASV\source-git\supabase\functions\teams-individual-summary\index.ts
+- [[fetchServiceHealth()]] - code - ASV\source-git\supabase\functions\m365-sync\index.ts
+- [[fetchSubscriptions()]] - code - ASV\source-git\supabase\functions\m365-sync\index.ts
+- [[fetchTasks()]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[fetchTicketDetail()]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[fetchTicketsWithFilters()]] - code - ASV\source-git\supabase\functions\teams-scheduled-reports\index.ts
+- [[fetchUsers()_2]] - code - ASV\source-git\supabase\functions\m365-sync\index.ts
+- [[fetchWithRetry()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[fileToBase64()_1]] - code - ASV\source-git\src\components\tickets\NewTicketModal.tsx
+- [[filterCategories()_1]] - code - ASV\source-git\src\components\tickets\NewTicketModal.tsx
+- [[findMyGlpiUser()]] - code - ASV\source-git\src\components\tickets\TechnicianAssignModal.tsx
+- [[findParent()]] - code - ASV\source-git\src\components\tickets\NewTicketModal.tsx
+- [[formatDate()_23]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[formatHours()_9]] - code - ASV\source-git\src\pages\WhatsAppReportsPage.tsx
+- [[formatSkuPartNumber()]] - code - ASV\source-git\supabase\functions\m365-sync\index.ts
+- [[formatTeamsAdaptiveCard()]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[formatTeamsMessage()]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[formatTicketLine()]] - code - ASV\source-git\supabase\functions\teams-individual-summary\index.ts
+- [[formatWhatsAppMessage()]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[generateDeliveries()]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[generateExecutiveSummary()]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[generateFallbackPrepare()]] - code - ASV\source-git\supabase\functions\people-1on1-assistant\index.ts
+- [[getActionItems()]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[getAuthToken()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[getBackupDailyTrend()]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[getBackupStats()]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[getBaseUrl()]] - code - ASV\source-git\supabase\functions\d4sign-service\index.ts
+- [[getBestPhone()]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[getBreadcrumb()]] - code - ASV\source-git\src\components\tickets\NewTicketModal.tsx
+- [[getCategoryName()]] - code - ASV\source-git\src\components\bitdefender\SecurityTicketConfigModal.tsx
+- [[getCompanyByGlpiEntity()]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[getCriticalTicketCount()]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[getD4SignConfig()]] - code - ASV\source-git\supabase\functions\d4sign-service\index.ts
+- [[getDelegatedAccessToken()]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[getDeviceStats()]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[getDocumentStatus()]] - code - ASV\source-git\supabase\functions\d4sign-service\index.ts
+- [[getGLPICategories()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[getGLPIClosedTickets()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[getGLPIGroupsByEntity()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[getGLPIReportStats()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[getGLPITicketDetail()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[getGLPITicketDetailMySQL()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[getGLPITickets()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[getGLPIUserEmail()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[getGLPIUsersByEntity()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[getMonitoringDetailedStats()]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[getMonitoringStats()]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[getOrCreateOneOnOneChat()]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[getRecentFollowups()]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[getRemoveId()]] - code - ASV\source-git\src\components\tickets\ObserverAssignModal.tsx
+- [[getRemoveId()_1]] - code - ASV\source-git\src\components\tickets\RequesterAssignModal.tsx
+- [[getSelectedCategory()]] - code - ASV\source-git\src\components\tickets\NewTicketModal.tsx
+- [[getSelectedCategoryId()]] - code - ASV\source-git\src\components\tickets\NewTicketModal.tsx
+- [[getSeverityBadge()]] - code - ASV\source-git\src\components\bitdefender\SecurityTicketConfigModal.tsx
+- [[getSkuFriendlyName()]] - code - ASV\source-git\supabase\functions\m365-sync\index.ts
+- [[getSlaWeeklyTrend()]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[getSyncStatus()]] - code - ASV\source-git\src\components\admin\glpi-bridge\GlpiBridgeSection.tsx
+- [[getTechniciansWithGroups()]] - code - ASV\source-git\supabase\functions\teams-individual-summary\index.ts
+- [[getTenantIdFromDomain()]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[getTicketAging()]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[getTicketDetail()]] - code - ASV\source-git\supabase\functions\glpi\index.ts
+- [[getTicketDetails()]] - code - ASV\source-git\supabase\functions\satisfaction-survey-auto\index.ts
+- [[getTicketFollowups()]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[getTicketFromCache()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[getTicketFromCacheBypass()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[getTicketGroups()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[getTicketObservers()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[getTicketRequesters()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[getTicketRequesters()_1]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[getTicketStats()]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[getTicketTechnicians()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[getTicketTechnicians()_1]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[getTopProblems()]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[getTypeColor()_2]] - code - ASV\source-git\src\components\tickets\detail\TicketDetailEnterpriseModal.tsx
+- [[getTypeColor()_1]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[getUserDetails()]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[glpi.ts]] - code - ASV\source-git\src\lib\glpi.ts
+- [[handleAIGenerate()]] - code - ASV\source-git\src\components\reports\executive\ReportDeliveriesSection.tsx
+- [[handleAdd()]] - code - ASV\source-git\src\components\admin\glpi-bridge\GlpiBridgeSection.tsx
+- [[handleAddByEmail()]] - code - ASV\source-git\src\components\tickets\ObserverAssignModal.tsx
+- [[handleAddByEmail()_1]] - code - ASV\source-git\src\components\tickets\RequesterAssignModal.tsx
+- [[handleAssignGroup()]] - code - ASV\source-git\src\components\tickets\GroupAssignModal.tsx
+- [[handleAssignObserver()]] - code - ASV\source-git\src\components\tickets\ObserverAssignModal.tsx
+- [[handleAssignRequester()]] - code - ASV\source-git\src\components\tickets\RequesterAssignModal.tsx
+- [[handleAssignSelf()_1]] - code - ASV\source-git\src\components\tickets\detail\TicketDetailEnterpriseModal.tsx
+- [[handleAssignSelf()]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[handleAssignTechnician()]] - code - ASV\source-git\src\components\tickets\TechnicianAssignModal.tsx
+- [[handleAssignToMe()]] - code - ASV\source-git\src\components\tickets\TicketRowActions.tsx
+- [[handleCategoryChange()]] - code - ASV\source-git\src\components\bitdefender\SecurityTicketConfigModal.tsx
+- [[handleCategorySearchSelect()]] - code - ASV\source-git\src\components\tickets\NewTicketModal.tsx
+- [[handleCreateTask()]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[handleDeleteTask()]] - code - ASV\source-git\src\components\tickets\detail\TicketDetailEnterpriseModal.tsx
+- [[handleDescriptionChange()]] - code - ASV\source-git\src\components\bitdefender\SecurityTicketConfigModal.tsx
+- [[handleEdit()_1]] - code - ASV\source-git\src\components\admin\glpi-bridge\GlpiBridgeSection.tsx
+- [[handleGenerateDescription()]] - code - ASV\source-git\src\components\projects\CreateProjectTicketModal.tsx
+- [[handleGenerateSolution()]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[handleImproveDescription()_1]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[handleImproveReply()_2]] - code - ASV\source-git\src\components\tickets\detail\TicketDetailEnterpriseModal.tsx
+- [[handleImproveReply()]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[handleMinutesChange()]] - code - ASV\source-git\src\components\bitdefender\SecurityTicketConfigModal.tsx
+- [[handlePrepare()]] - code - ASV\source-git\supabase\functions\people-1on1-assistant\index.ts
+- [[handleQuickView()]] - code - ASV\source-git\src\components\tickets\TicketRowActions.tsx
+- [[handleRemoveGroup()]] - code - ASV\source-git\src\components\tickets\GroupAssignModal.tsx
+- [[handleRemoveGroup()_2]] - code - ASV\source-git\src\components\tickets\detail\TicketDetailEnterpriseModal.tsx
+- [[handleRemoveGroup()_1]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[handleRemoveObserver()]] - code - ASV\source-git\src\components\tickets\ObserverAssignModal.tsx
+- [[handleRemoveRequester()]] - code - ASV\source-git\src\components\tickets\RequesterAssignModal.tsx
+- [[handleRemoveRequester()_2]] - code - ASV\source-git\src\components\tickets\detail\TicketDetailEnterpriseModal.tsx
+- [[handleRemoveRequester()_1]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[handleRemoveTechnician()]] - code - ASV\source-git\src\components\tickets\TechnicianAssignModal.tsx
+- [[handleRemoveTechnician()_2]] - code - ASV\source-git\src\components\tickets\detail\TicketDetailEnterpriseModal.tsx
+- [[handleRemoveTechnician()_1]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[handleReopenTicket()_1]] - code - ASV\source-git\src\components\tickets\detail\TicketDetailEnterpriseModal.tsx
+- [[handleReopenTicket()]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[handleReply()_2]] - code - ASV\source-git\src\components\tickets\detail\TicketDetailEnterpriseModal.tsx
+- [[handleReply()_1]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[handleSave()_33]] - code - ASV\source-git\src\components\reports\executive\ReportDeliveriesSection.tsx
+- [[handleSave()_6]] - code - ASV\source-git\src\components\bitdefender\SecurityTicketConfigModal.tsx
+- [[handleSearch()_2]] - code - ASV\source-git\src\components\tickets\GroupAssignModal.tsx
+- [[handleSearch()_3]] - code - ASV\source-git\src\components\tickets\ObserverAssignModal.tsx
+- [[handleSearch()_4]] - code - ASV\source-git\src\components\tickets\RequesterAssignModal.tsx
+- [[handleSearch()_5]] - code - ASV\source-git\src\components\tickets\TechnicianAssignModal.tsx
+- [[handleSelfAssign()]] - code - ASV\source-git\src\components\tickets\TechnicianAssignModal.tsx
+- [[handleSolveTicket()]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[handleStatusChange()_5]] - code - ASV\source-git\src\components\tickets\detail\TicketDetailEnterpriseModal.tsx
+- [[handleStatusChange()_3]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[handleStatusChange()_4]] - code - ASV\source-git\src\components\tickets\TicketRowActions.tsx
+- [[handleSubmit()_42]] - code - ASV\source-git\src\components\projects\CreateProjectTicketModal.tsx
+- [[handleSubmit()_52]] - code - ASV\source-git\src\components\tickets\NewTicketModal.tsx
+- [[handleSummarize()_1]] - code - ASV\source-git\supabase\functions\people-1on1-assistant\index.ts
+- [[handleTabChange()]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[handleTestConnection()]] - code - ASV\source-git\src\components\admin\glpi-bridge\GlpiBridgeSection.tsx
+- [[handleTestMode()]] - code - ASV\source-git\supabase\functions\teams-scheduled-reports\index.ts
+- [[handleTicketSelect()_1]] - code - ASV\source-git\src\components\tickets\detail\TicketDetailEnterpriseModal.tsx
+- [[handleTicketSelect()]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[handleTitleChange()]] - code - ASV\source-git\src\components\bitdefender\SecurityTicketConfigModal.tsx
+- [[handleToggle()_3]] - code - ASV\source-git\src\components\bitdefender\SecurityTicketConfigModal.tsx
+- [[handleToggleTaskState()]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[haversineDistance()]] - code - ASV\source-git\src\components\fleet\trip-wizard\TripLocationSection.tsx
+- [[index.ts_24]] - code - ASV\source-git\supabase\functions\backup-close-orphan-tickets\index.ts
+- [[index.ts_39]] - code - ASV\source-git\supabase\functions\d4sign-service\index.ts
+- [[index.ts_40]] - code - ASV\source-git\supabase\functions\d4sign-webhook\index.ts
+- [[index.ts_47]] - code - ASV\source-git\supabase\functions\fleet-compare-vehicle-photos\index.ts
+- [[index.ts_57]] - code - ASV\source-git\supabase\functions\generate-reply-suggestion\index.ts
+- [[index.ts_66]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[index.ts_85]] - code - ASV\source-git\supabase\functions\m365-sync\index.ts
+- [[index.ts_89]] - code - ASV\source-git\supabase\functions\nps-public\index.ts
+- [[index.ts_91]] - code - ASV\source-git\supabase\functions\people-1on1-assistant\index.ts
+- [[index.ts_99]] - code - ASV\source-git\supabase\functions\reopen-ticket-from-survey\index.ts
+- [[index.ts_100]] - code - ASV\source-git\supabase\functions\report-ai-deliveries\index.ts
+- [[index.ts_103]] - code - ASV\source-git\supabase\functions\satisfaction-survey-auto\index.ts
+- [[index.ts_108]] - code - ASV\source-git\supabase\functions\send-nps-survey\index.ts
+- [[index.ts_118]] - code - ASV\source-git\supabase\functions\teams-inactivity-check\index.ts
+- [[index.ts_119]] - code - ASV\source-git\supabase\functions\teams-individual-summary\index.ts
+- [[index.ts_121]] - code - ASV\source-git\supabase\functions\teams-scheduled-reports\index.ts
+- [[index.ts_128]] - code - ASV\source-git\supabase\functions\wazuh-sync\index.ts
+- [[index.ts_129]] - code - ASV\source-git\supabase\functions\wazuh-webhook\index.ts
+- [[index.ts_139]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[initGlpiSession()]] - code - ASV\source-git\supabase\functions\satisfaction-survey-auto\index.ts
+- [[isAsvOperator()]] - code - ASV\source-git\src\components\tickets\detail\TicketDetailEnterpriseModal.tsx
+- [[isExternalEmail()]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[isFeatureEnabled()]] - code - ASV\source-git\src\config\featureFlags.ts
+- [[isValidEmail()]] - code - ASV\source-git\src\components\tickets\ObserverAssignModal.tsx
+- [[isValidEmail()_1]] - code - ASV\source-git\src\components\tickets\RequesterAssignModal.tsx
+- [[isValidMobilePhone()]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[json()]] - code - ASV\source-git\supabase\functions\nps-public\index.ts
+- [[killGlpiSession()]] - code - ASV\source-git\supabase\functions\satisfaction-survey-auto\index.ts
+- [[listDocumentsFromSafe()]] - code - ASV\source-git\supabase\functions\d4sign-service\index.ts
+- [[listSafes()]] - code - ASV\source-git\supabase\functions\d4sign-service\index.ts
+- [[loadCategories()]] - code - ASV\source-git\src\components\bitdefender\SecurityTicketConfigModal.tsx
+- [[loadCurrentGroups()]] - code - ASV\source-git\src\components\tickets\GroupAssignModal.tsx
+- [[loadCurrentObservers()]] - code - ASV\source-git\src\components\tickets\ObserverAssignModal.tsx
+- [[loadCurrentRequesters()]] - code - ASV\source-git\src\components\tickets\RequesterAssignModal.tsx
+- [[loadCurrentTechnicians()]] - code - ASV\source-git\src\components\tickets\TechnicianAssignModal.tsx
+- [[loadDefaultGroups()]] - code - ASV\source-git\src\components\tickets\GroupAssignModal.tsx
+- [[mapSeverity()_1]] - code - ASV\source-git\supabase\functions\wazuh-webhook\index.ts
+- [[mapVulnSeverity()]] - code - ASV\source-git\supabase\functions\wazuh-sync\index.ts
+- [[normalizeEnv()]] - code - ASV\source-git\supabase\functions\d4sign-service\index.ts
+- [[normalizePhone()]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[parseFollowupContent()]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[photoLines()]] - code - ASV\source-git\supabase\functions\fleet-compare-vehicle-photos\index.ts
+- [[processCompanyTickets()]] - code - ASV\source-git\supabase\functions\satisfaction-survey-auto\index.ts
+- [[processFollowup()]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[processNotificationType()]] - code - ASV\source-git\supabase\functions\teams-scheduled-reports\index.ts
+- [[refreshTeamsToken()]] - code - ASV\source-git\supabase\functions\teams-scheduled-reports\index.ts
+- [[registerWebhook()]] - code - ASV\source-git\supabase\functions\d4sign-service\index.ts
+- [[renderBlock()]] - code - ASV\source-git\supabase\functions\teams-individual-summary\index.ts
+- [[renderMessage()]] - code - ASV\source-git\supabase\functions\teams-scheduled-reports\index.ts
+- [[renderTemplate()]] - code - ASV\source-git\supabase\functions\teams-scheduled-reports\index.ts
+- [[replyGLPITicket()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[resetToDefault()]] - code - ASV\source-git\src\components\bitdefender\SecurityTicketConfigModal.tsx
+- [[sendChatMessage()]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[sendSurvey()]] - code - ASV\source-git\supabase\functions\send-nps-survey\index.ts
+- [[sendTeamsMessage()]] - code - ASV\source-git\supabase\functions\teams-scheduled-reports\index.ts
+- [[sendTeamsMessageDelegated()]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[sendTeamsNotification()]] - code - ASV\source-git\supabase\functions\teams-inactivity-check\index.ts
+- [[sendToSigners()]] - code - ASV\source-git\supabase\functions\d4sign-service\index.ts
+- [[sendWhatsAppMessage()]] - code - ASV\source-git\supabase\functions\whatsapp-weekly-report\index.ts
+- [[setRequesterEmail()]] - code - ASV\source-git\src\components\tickets\NewTicketModal.tsx
+- [[storeSignedPdf()]] - code - ASV\source-git\supabase\functions\d4sign-webhook\index.ts
+- [[stripHtml()_6]] - code - ASV\source-git\supabase\functions\report-ai-deliveries\index.ts
+- [[stripHtml()_2]] - code - ASV\source-git\src\components\tickets\detail\TicketDetailEnterpriseModal.tsx
+- [[stripHtml()]] - code - ASV\source-git\src\components\tickets\TicketDetailModal.tsx
+- [[test()_1]] - code - ASV\source-git\test_glpi_cats.js
+- [[test()]] - code - ASV\source-git\test_glpi.js
+- [[test_glpi.js]] - code - ASV\source-git\test_glpi.js
+- [[test_glpi_cats.js]] - code - ASV\source-git\test_glpi_cats.js
+- [[toDateStr()]] - code - ASV\source-git\supabase\functions\report-ai-deliveries\index.ts
+- [[truncate()]] - code - ASV\source-git\supabase\functions\generate-reply-suggestion\index.ts
+- [[truncateText()]] - code - ASV\source-git\supabase\functions\glpi-followup-notify\index.ts
+- [[unassignGLPIGroup()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[unassignGLPIObserver()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[unassignGLPIRequester()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[unassignGLPITechnician()]] - code - ASV\source-git\src\lib\glpi.ts
+- [[uploadDocument()]] - code - ASV\source-git\supabase\functions\d4sign-service\index.ts
+- [[useCoveBackup.ts]] - code - ASV\source-git\src\hooks\useCoveBackup.ts
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Community_2
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 38 edges to [[_COMMUNITY_Community_7]]
+- 20 edges to [[_COMMUNITY_Community_3]]
+- 17 edges to [[_COMMUNITY_Community_4]]
+- 17 edges to [[_COMMUNITY_Community_5]]
+- 8 edges to [[_COMMUNITY_Community_10]]
+- 6 edges to [[_COMMUNITY_Community_8]]
+- 5 edges to [[_COMMUNITY_Community_6]]
+- 4 edges to [[_COMMUNITY_Community_1]]
+- 2 edges to [[_COMMUNITY_Community_24]]
+- 1 edge to [[_COMMUNITY_Community_22]]
+- 1 edge to [[_COMMUNITY_Community_0]]
+- 1 edge to [[_COMMUNITY_Community_23]]
+- 1 edge to [[_COMMUNITY_Community_29]]
+- 1 edge to [[_COMMUNITY_Community_36]]
+
+## Top bridge nodes
+- [[json()]] - degree 130, connects to 12 communities
+- [[getGLPIUsersByEntity()]] - degree 11, connects to 2 communities
+- [[refreshTeamsToken()]] - degree 8, connects to 2 communities
+- [[processNotificationType()]] - degree 7, connects to 2 communities
+- [[getGLPITickets()]] - degree 6, connects to 2 communities
