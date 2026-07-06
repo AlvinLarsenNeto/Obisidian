@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {"id": "portal_asv", "label": "Portal ASV", "file_type": "system", "source_file": "projects/portal-asv.md"},
+    {"id": "portal_motorista", "label": "Portal Motorista (/m)", "file_type": "module", "source_file": "FLEET_MOTORISTA.md"},
+    {"id": "whatsapp_queues", "label": "WhatsApp Queues (3 filas)", "file_type": "feature", "source_file": "whatsapp-queues.md"},
+    {"id": "fila_sistemas", "label": "Fila Sistemas", "file_type": "queue", "source_file": "whatsapp-queues.md"},
+    {"id": "fila_tecnologia", "label": "Fila Tecnologia", "file_type": "queue", "source_file": "whatsapp-queues.md"},
+    {"id": "fila_inteligencia_dados", "label": "Fila Inteligência de Dados", "file_type": "queue", "source_file": "whatsapp-queues.md"},
+    {"id": "isolamento_fila", "label": "Isolamento por Fila", "file_type": "feature", "source_file": "whatsapp-queues.md"},
+    {"id": "business_hours", "label": "Auto-responder Fora do Horário", "file_type": "feature", "source_file": "whatsapp-queues.md"},
+    {"id": "business_hours_ts", "label": "business-hours.ts", "file_type": "code_module", "source_file": "whatsapp-queues.md"},
+    {"id": "fleet_trips_rls", "label": "FLEET Trips RLS Map", "file_type": "reference", "source_file": "FLEET_TRIPS_RLS_MAP.md"},
+    {"id": "rls_policy", "label": "RLS Policy (get_accessible_companies)", "file_type": "security", "source_file": "FLEET_TRIPS_RLS_MAP.md"},
+    {"id": "frota_viagens", "label": "frota_viagens (tabela)", "file_type": "schema", "source_file": "FLEET_MOTORISTA.md"},
+    {"id": "frota_paradas", "label": "frota_paradas (tabela)", "file_type": "schema", "source_file": "FLEET_MOTORISTA.md"},
+    {"id": "uazapi", "label": "UaZapi (WhatsApp API)", "file_type": "external_service", "source_file": "OPS_QUICKREF.md"},
+    {"id": "ops_quickref", "label": "OPS_QUICKREF", "file_type": "document", "source_file": "OPS_QUICKREF.md"},
+    {"id": "quickref", "label": "QUICKREF", "file_type": "document", "source_file": "QUICKREF.md"},
+    {"id": "index_doc", "label": "INDEX", "file_type": "document", "source_file": "INDEX.md"}
+  ],
+  "edges": [
+    {"source": "portal_asv", "target": "portal_motorista", "relation": "contains", "confidence": "EXTRACTED", "confidence_score": 1.0},
+    {"source": "portal_asv", "target": "whatsapp_queues", "relation": "contains", "confidence": "EXTRACTED", "confidence_score": 1.0},
+    {"source": "whatsapp_queues", "target": "fila_sistemas", "relation": "contains", "confidence": "EXTRACTED", "confidence_score": 1.0},
+    {"source": "whatsapp_queues", "target": "fila_tecnologia", "relation": "contains", "confidence": "EXTRACTED", "confidence_score": 1.0},
+    {"source": "whatsapp_queues", "target": "fila_inteligencia_dados", "relation": "contains", "confidence": "EXTRACTED", "confidence_score": 1.0},
+    {"source": "whatsapp_queues", "target": "isolamento_fila", "relation": "enables", "confidence": "EXTRACTED", "confidence_score": 0.95},
+    {"source": "whatsapp_queues", "target": "business_hours", "relation": "contains", "confidence": "EXTRACTED", "confidence_score": 0.95},
+    {"source": "business_hours", "target": "business_hours_ts", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0},
+    {"source": "uazapi", "target": "whatsapp_queues", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 0.95},
+    {"source": "ops_quickref", "target": "whatsapp_queues", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0},
+    {"source": "quickref", "target": "portal_asv", "relation": "documents", "confidence": "EXTRACTED", "confidence_score": 1.0},
+    {"source": "index_doc", "target": "portal_asv", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0}
+  ],
+  "hyperedges": [
+    {"id": "whatsapp_ecosystem", "label": "WhatsApp Integration Ecosystem", "nodes": ["whatsapp_queues", "uazapi", "business_hours", "isolamento_fila"], "relation": "form", "confidence": "INFERRED", "confidence_score": 0.9}
+  ],
+  "input_tokens": 31944,
+  "output_tokens": 0
+}

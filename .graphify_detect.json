@@ -1,0 +1,19 @@
+{
+  "files": {
+    "document": [
+      "INDEX.md",
+      "QUICKREF.md",
+      "OPS_QUICKREF.md",
+      "FLEET_TRIPS_RLS_MAP.md",
+      "whatsapp-queues.md",
+      "projects/portal-asv.md",
+      "FLEET_MOTORISTA.md"
+    ],
+    "code": [],
+    "paper": [],
+    "image": [],
+    "video": []
+  },
+  "total_files": 7,
+  "total_words": 3396
+}
