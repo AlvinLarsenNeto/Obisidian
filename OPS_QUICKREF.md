@@ -35,6 +35,9 @@ Alvin deploya VPS. Lovable ainda commita (commits "Changes"/"Fast Visual Edit") 
 
 - **Modal motorista fecha clicar fora** → **CORRIGIDO**: `onInteractOutside`/`onEscapeKeyDown` preventDefault 3 dialogs (início/parada/fim).
 
+## Bugs/features resolvidos — contexto rápido
+- **Update UX** (2026-07-09) — trocado popup bloqueante por botão discreto. Antes: `UpdateAvailableDialog.tsx` (Dialog centralizado não-fechável, montado em `App.tsx`). Agora: `UpdateSystemButton.tsx` no `Header.tsx` ao lado do marcador `v{BUILD_LABEL}` — laranja `bg-orange-500` "Atualizar sistema", `return null` até detectar deploy. Mesma detecção (poll 60s `/version.json?t=` vs `__BUILD_TIME__`) + `handleUpdate` (unregister SW + `caches.delete` + reload `?_v=<ts>`). Sempre pega ÚLTIMA versão (bundle vem do nginx). `UpdateAvailableDialog.tsx` deletado.
+
 ## Bugs/features resolvidos (2026-06) — contexto rápido
 - **Menção (@) grupo WhatsApp** (2026-06-16) — 2 causas, ambas resolvidas:
   1. **Dropdown mostrava LID "+275444926517369"** → `whatsapp-group-participants/index.ts` (`normalizeParticipant`) ignorava **`PhoneNumber`** (PascalCase) de UaZapi `/group/info` (`554...@s.whatsapp.net`). Fix: ler `PhoneNumber`/`LID`/`Lid`/`DisplayName`, `formatPhoneBR` endurecido (+55 12/13 díg), guard `isRealPhone`, cache `v3:`→`v4:`. + guard front (`WhatsAppChatWindow.tsx handleSend`): envia menção se fone real + jid `@s.whatsapp.net`, senão `@Nome`.
